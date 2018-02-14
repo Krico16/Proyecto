@@ -1,0 +1,56 @@
+.cuerpo{
+  background-color: #0069BC;
+}
+.titulo{
+  margin: auto;
+  width: 50%;
+  /*
+  border: 3px solid green;
+  Le da un borde al texto */
+  padding: 10px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 110px;/*Altura de la letra */
+  height: 200px;
+  font-size: 62px;
+  font-family: 'Amita';
+  color: #27BF3F;
+}
+.texto{
+  font-family: 'Baloo';
+  font-size: 24px;
+}
+.botones{
+  background-color: #3F7DBC;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#grad{
+  height: 220px;
+  background-color: #0069BC;
+  background: linear-gradient(#00BFA6, #00677F, #0069BC)
+}
