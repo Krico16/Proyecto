@@ -5,7 +5,7 @@
   background-size: cover;
   background-attachment: fixed;*/
 
-  background-color:#BAB2AF;
+  background-color:#222222;
 }
 .titulo{
   margin: auto;
@@ -20,7 +20,7 @@
   height: 200px;
   font-size: 62px;
   font-family: 'Amita';
-  color: #27BF3F;
+  color: lawngreen;
   /*background-image: url('https://cdn.discordapp.com/attachments/219191459763585035/419686163834601472/baron_x_dragon_aggressive_anglesm.png');
 */
 }
@@ -60,7 +60,7 @@
 #grad{
   /*
   height: 220px;
-  background-color: #0069BC;
+  background-color: #37393f;
   background: linear-gradient(#00BFA6, #00677F, #0069BC)*/
   background-image: url();
 }
