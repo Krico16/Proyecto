@@ -1,35 +1,38 @@
-.cuerpo{
-  /*background-image: url('https://cdn.discordapp.com/attachments/219191459763585035/419686163834601472/baron_x_dragon_aggressive_anglesm.png');
+.cuerpo {
+    /*background-image: url('https://cdn.discordapp.com/attachments/219191459763585035/419686163834601472/baron_x_dragon_aggressive_anglesm.png');
   background-repeat: no-repeat,space;
   background-position:center;
   background-size: cover;
   background-attachment: fixed;*/
-
-  background-color:#222222;
+    background-color: #222222;
 }
-.titulo{
-  margin: auto;
-  width: 50%;
-  /*
+
+.titulo {
+    margin: auto;
+    width: 50%;
+    /*
   border: 3px solid green;
   Le da un borde al texto */
-  padding: 40px;
-  text-align: center;
-  vertical-align: middle;
-  line-height: 110px;/*Altura de la letra */
-  height: 200px;
-  font-size: 62px;
-  font-family: 'Amita';
-  color: lawngreen;
-  /*background-image: url('https://cdn.discordapp.com/attachments/219191459763585035/419686163834601472/baron_x_dragon_aggressive_anglesm.png');
+    padding: 40px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 110px;
+    /*Altura de la letra */
+    height: 200px;
+    font-size: 62px;
+    font-family: 'Amita';
+    color: lawngreen;
+    /*background-image: url('https://cdn.discordapp.com/attachments/219191459763585035/419686163834601472/baron_x_dragon_aggressive_anglesm.png');
 */
 }
-.texto{
-  font-family: 'Baloo';
-  font-size: 24px;
+
+.texto {
+    font-family: 'Baloo';
+    font-size: 24px;
 }
-.botones{
-  background-color: #3F7DBC;
+
+.botones {
+    background-color: #3F7DBC;
     border: none;
     color: white;
     padding: 15px 32px;
