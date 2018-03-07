@@ -57,10 +57,16 @@
     cursor: pointer;
 }
 
-#grad{
+/*#grad{
   /*
   height: 220px;
   background-color: #37393f;
-  background: linear-gradient(#00BFA6, #00677F, #0069BC)*/
+  background: linear-gradient(#00BFA6, #00677F, #0069BC)
   background-image: url();
+}
+*/
+
+.derecha {
+    text-align: right;
+    color: red;
 }
