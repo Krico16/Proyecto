@@ -27,6 +27,7 @@
         <?php
             cinta();
             titulo();
+
     ?>
 
             <form action="" method="post" enctype="multipart/form-data" style="color:red">

@@ -16,6 +16,7 @@ function cinta(){
         </div>
     </nav>
     ");
+
 }
 
 function titulo(){
